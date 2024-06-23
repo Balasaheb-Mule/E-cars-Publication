@@ -1,7 +1,7 @@
 
-## Research Publication Details
+# Research Publication Details
 International Conference on Transportation and Development 2023, held in Austin, Texas, June 14–17, 2023.
-# Thesis Title (MTech Project)
+## Research Topic
 
 Identification of Factors Influencing the Adoption and Use of Electric Cars on Indian Roads Based on Public Perception
 
@@ -13,12 +13,17 @@ Past studies have developed several models and theories with the objective of el
 Data used in this study was collected through a questionnaire that was prepared using a wide spectrum of questions to collect the maximum possible relevant information from the respondents. It was circulated among people of different backgrounds to create a diverse sample size. The questionnaire consisted a total of 27 questions, including socio-demographic data (age, gender, occupation, annual income, hometown, number of members in the family), number of family members driving personal vehicle(s), driving frequency, driving experience, regular trip area, distance covered as a commuter and respondents’ perception on E-car
 
 ## Methodology
-### 1. Multiple Correspondence Analysis :
+
+![Screenshot 2024-06-24 002537](https://github.com/Balasaheb-Mule/E-cars-Publication/assets/138377175/349fc419-049d-402f-9b20-9a90844acfe5)
+
+### 1. Multiple Correspondence Analysis 
 Multiple correspondence analysis is a method for examining the relationship between two or more categorical variables. In this study, MCA was carried out to convert categorical data into continuous data for hierarchical clustering. The number of dimensions to be employed is often decided based on the analysis being done, however two-dimensional comparison is seen to be sufficient for simple visualization 
 
 
 ### 2. Hierarchical Cluster Analysis
 In order to get a better understanding of the collected data and extract useful conclusions, hierarchical cluster analysis was conducted on the data obtained from MCA. Ward’s method and square Euclidean distance were used to check the similarity and measure the distance between the clusters. The user responses were clustered into groups sharing similar characteristics based on their socio-demographics. The optimal numbers of clusters were determined using the silhouette score plot (the degree to which each point in a cluster is closer to points in neighbouring clusters) and Dendrogram.
+
+![Screenshot 2024-06-24 003730](https://github.com/Balasaheb-Mule/E-cars-Publication/assets/138377175/a4e9fc19-40b2-4e9e-9658-aefe9e27147f)
 
 ### Factor Analysis
 Factor Analysis
